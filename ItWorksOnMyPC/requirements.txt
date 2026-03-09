@@ -1,0 +1,7 @@
+streamlit
+pypdf
+torch
+transformers<5
+sentence-transformers
+faiss-cpu
+numpy
